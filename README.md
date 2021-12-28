@@ -6,7 +6,7 @@ I'm a motivated aspiring software developer, currently self-learning with Angela
 
 <br>
 
-My background is in law and cognitive neuroscience.
+<!-- My background is in law and cognitive neuroscience. -->
 
 
 <!-- **RKaurB/rkaurb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->

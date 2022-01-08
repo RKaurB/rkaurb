@@ -2,7 +2,7 @@
 
 <br>
 
-I'm a motivated aspiring software developer, currently self-learning with Angela Yu's Web Development Bootcamp via Udemy.
+I'm a motivated aspiring software developer, currently self-learning with Angela Yu and Colt Steele's Web Development Bootcamps via Udemy.
 
 <br>
 

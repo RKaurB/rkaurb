@@ -2,8 +2,7 @@
 
 <br>
 
-I'm a motivated aspiring software developer, currently self-learning with Angela Yu and Colt Steele's Web Development Bootcamps via Udemy.
-
+I'm a motivated aspiring software engineer, and [BNTA](https://techacademy.brightnetwork.co.uk/) Cohort 4 member.
 <br>
 
 <!-- My background is in law and cognitive neuroscience. -->
